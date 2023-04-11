@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/axGR7Ovm4a0m6WJi5N59iOqtiq/Z5eDALG7b1uW0ttyirsQPiordAu1bIr2Rvf7pXJBJRFiZOb2gpsQhPF9hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakshi\\source\\repos\\RedisConnectionTest\\RedisConnectionTest\\RedisConnectionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakshi\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\sakshi\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
+    "C:\\Users\\sakshi\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
